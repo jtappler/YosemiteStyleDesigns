@@ -1,5 +1,5 @@
 # Yosemite Style Designs
-This repository contains some redesigned retina icons and Terminal theme which inspired by OS X Yosemite. 
+This repository contains retina icons and Terminal theme inspired by OS X Yosemite and redesigned by me since last year. 
 
 I'm still working on more icons. Feel free to grab any one you like for your own use :)
 
